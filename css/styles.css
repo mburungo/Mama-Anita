@@ -1,6 +1,3 @@
-jumbotron-fluid{
-  background-image: url(../images/backgrounds/landing.jpg);
-}
-first-part{
-  
+div.image{
+  content:url(/home/muhoro/Documents/mama-anita/images/backgrounds/landing.jpg);
 }
