@@ -1,3 +1,25 @@
-div.image{
-  content:url(/home/muhoro/Documents/mama-anita/images/backgrounds/landing.jpg);
+.jumbotron{
+  background-image: url(../images/backgrounds/landing.jpg);
+  margin-bottom: 0
+}
+td {
+  width: 277.5px;
+}
+.break{
+  background-image: url(../images/foodtop/breakfast.jpg);
+}
+.lunch {
+  background-image: url(../images/foodtop/lunch.jpg);
+}
+.dinner {
+  background-image: url(../images/foodtop/dinner.jpg);
+}
+.table {
+  margin-top: 0
+}
+.happy {
+  background-color: #F2F4FF;
+}
+.party {
+  background-color: #EF561A
 }
